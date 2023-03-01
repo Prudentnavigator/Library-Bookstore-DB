@@ -12,4 +12,4 @@ Bootcamp ProjectV - Database SQLite
 
 id    |      Title      |       Author   |   Qty |
 
-3001 A Tale of Two Cities Charles Dickens 30
+3001 | A Tale of Two Cities | Charles Dickens | 30
