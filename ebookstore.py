@@ -125,7 +125,7 @@ while True:
     
     if menu == "0":
         print(''' 
-                    ---------------------- Goodby! ---------------------
+                    ---------------------- Goodbye! ---------------------
                                             ''')
         exit()
 
@@ -320,8 +320,7 @@ while True:
             add_book(book_id, title, author, quantity)
             print('''
                             *** The book has been added *** ''')
-
-    
+  
     # Sub-menu for deleting books.
     elif menu == "4":
         while True:
